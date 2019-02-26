@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.resources.ExtentReporterNG" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<!-- <class name="com.Testcases.IQMN_JS_L" /> --> 
+			
+			<!-- <class name="com.Testcases.IQMN_JS" />
+			<class name="com.Testcases.IQMN_JS_JN" />
+			<class name="com.Testcases.IQMN_JM_JN" /> -->
+			<class name="com.Testcases.IQMN_JS_JN2" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

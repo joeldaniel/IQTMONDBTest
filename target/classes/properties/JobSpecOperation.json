@@ -1,0 +1,160 @@
+{
+  "Tests": [
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "spec_desc"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "spec_desc"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "hours_makeready"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "hours_makeready"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "hours_run"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "hours_run"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "length"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "length"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "width"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "width"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "number_out_for_oper"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "number_out_for_oper"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "qty_makeready"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "qty_makeready"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "qty_net"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "qty_net"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "qty_spoilage"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "qty_spoilage"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "quantity_per_hour"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "quantity_per_hour"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "work_center_id"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "work_center_id"
+      }
+    },
+    {
+      "IQT": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_primaryIdQuery": "select iqpid from jobspecoperation where job_id='##JobID##' and sub_job_id='##SubJobID##'",
+        "_colName": "printflowcostcenterid"
+      },
+      "MON": {
+        "_Table": "jobspecoperation",
+        "_primaryId": "iqpid",
+        "_colName": "printflowcostcenterid"
+      }
+    }
+  ]
+}

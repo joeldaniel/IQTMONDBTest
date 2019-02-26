@@ -1,0 +1,8 @@
+com\Testcases\IQMN_JS.class
+com\base\Testbase.class
+com\resources\ExtentReporterNG.class
+com\Testcases\IQMN_JS_L.class
+com\utilities\IQ_JobSpec_List.class
+com\utilities\MN_JobSpec.class
+com\utilities\IQ_JobSpec.class
+com\utilities\MN_JobSpec_List.class
